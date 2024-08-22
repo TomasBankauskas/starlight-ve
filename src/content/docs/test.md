@@ -2,5 +2,6 @@
 type: page
 title: test
 description: some text
-hero: {}
+hero:
+  title: test
 ---
